@@ -1,0 +1,2 @@
+Gives updates of live cricket score in specified time intervals in SMS(Short Message Service). Used Twilio Rest api for sending sms to specified number. Used python packages like BeautifulSoup, requests.
+The data obtained from html requests is parsed in required format and used twilio api to send messages in frequent intervals of time.
